@@ -1,0 +1,13 @@
+.background{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+.mask{
+	position: absolute;
+	z-index:1;
+	height: 30px;
+	width:50px;
+	margin-left: 350px;
+	margin-top:360px;
+}
