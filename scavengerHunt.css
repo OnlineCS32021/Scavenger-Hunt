@@ -11,3 +11,19 @@
 	margin-left: 350px;
 	margin-top:360px;
 }
+.magic{
+	position: absolute;
+	z-index:1;
+	height: 50px;
+	width:40px;
+	margin-left: 850px;
+	margin-top:330px;
+}	
+.underwear{
+	position: absolute;
+	z-index:1;
+	height: 70px;
+	width:90px;
+	margin-left: 760px;
+	margin-top:250px;
+}
