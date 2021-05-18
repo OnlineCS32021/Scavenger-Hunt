@@ -27,3 +27,35 @@
 	margin-left: 760px;
 	margin-top:250px;
 }
+.computer{
+	position:absolute;
+	z-index: 1;
+	height: 161px;
+	width:202px;
+	margin-top: 200px;
+	margin-left: 400px;
+}
+.bottle{
+	position: absolute;
+	z-index: 1;
+	height:145px;
+	width:65px;
+	margin-left: 220px;
+	margin-top: 338px;
+}
+.book{
+	position:absolute;
+	z-index: 1;
+	height:50px;
+	width:70px;
+	margin-top:185px;
+	margin-left:50px;
+}
+.homework{
+	position:absolute;
+	z-index:1;
+	height: 40px;
+	width:60px;
+	margin-left: 1000px;
+	margin-top:340px;
+}
